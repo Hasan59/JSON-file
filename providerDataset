@@ -7,7 +7,8 @@
         "lat": 39.7817,
         "long": -89.6501,
         "email": "john.plumbing@example.com",
-        "phone": "217-555-1234"
+        "phone": "217-555-1234",
+        "imageUrl": "https://example.com/images/johns_plumbing.jpg"
     },
     {
         "ProvideName": "Elite Cleaners",
@@ -17,7 +18,8 @@
         "lat": 39.7821,
         "long": -89.6515,
         "email": "contact@elitecleaners.com",
-        "phone": "217-555-5678"
+        "phone": "217-555-5678",
+        "imageUrl": "https://example.com/images/elite_cleaners.jpg"
     },
     {
         "ProvideName": "Best Electric Co.",
@@ -27,7 +29,8 @@
         "lat": 39.7833,
         "long": -89.6529,
         "email": "service@bestelectric.com",
-        "phone": "217-555-9101"
+        "phone": "217-555-9101",
+        "imageUrl": "https://example.com/images/best_electric.jpg"
     },
     {
         "ProvideName": "Quick Fix Handyman",
@@ -37,7 +40,8 @@
         "lat": 39.7845,
         "long": -89.6543,
         "email": "info@quickfixhandyman.com",
-        "phone": "217-555-2345"
+        "phone": "217-555-2345",
+        "imageUrl": "https://example.com/images/quick_fix_handyman.jpg"
     },
     {
         "ProvideName": "Bright Star Cleaning",
@@ -47,7 +51,8 @@
         "lat": 39.7850,
         "long": -89.6550,
         "email": "brightstar@cleaning.com",
-        "phone": "217-555-3456"
+        "phone": "217-555-3456",
+        "imageUrl": "https://example.com/images/bright_star_cleaning.jpg"
     },
     {
         "ProvideName": "Green Thumb Gardening",
@@ -57,7 +62,8 @@
         "lat": 39.7855,
         "long": -89.6561,
         "email": "greenthumb@gardening.com",
-        "phone": "217-555-4567"
+        "phone": "217-555-4567",
+        "imageUrl": "https://example.com/images/green_thumb_gardening.jpg"
     },
     {
         "ProvideName": "Speedy Appliance Repair",
@@ -67,7 +73,8 @@
         "lat": 39.7861,
         "long": -89.6572,
         "email": "service@speedyappliance.com",
-        "phone": "217-555-5678"
+        "phone": "217-555-5678",
+        "imageUrl": "https://example.com/images/speedy_appliance_repair.jpg"
     },
     {
         "ProvideName": "Ace Painting Services",
@@ -77,7 +84,8 @@
         "lat": 39.7867,
         "long": -89.6583,
         "email": "info@acepainting.com",
-        "phone": "217-555-6789"
+        "phone": "217-555-6789",
+        "imageUrl": "https://example.com/images/ace_painting_services.jpg"
     },
     {
         "ProvideName": "Pro Landscaping",
@@ -87,7 +95,8 @@
         "lat": 39.7873,
         "long": -89.6594,
         "email": "contact@prolandscaping.com",
-        "phone": "217-555-7890"
+        "phone": "217-555-7890",
+        "imageUrl": "https://example.com/images/pro_landscaping.jpg"
     },
     {
         "ProvideName": "All Star Moving",
@@ -97,6 +106,7 @@
         "lat": 39.7879,
         "long": -89.6605,
         "email": "support@allstarmoving.com",
-        "phone": "217-555-8901"
+        "phone": "217-555-8901",
+        "imageUrl": "https://example.com/images/all_star_moving.jpg"
     }
 ]
