@@ -1,0 +1,102 @@
+[
+    {
+        "ProvideName": "John's Plumbing Services",
+        "rating": 4.8,
+        "price_per_hour": 50,
+        "address": "123 Main St, Springfield, IL 62701",
+        "lat": 39.7817,
+        "long": -89.6501,
+        "email": "john.plumbing@example.com",
+        "phone": "217-555-1234"
+    },
+    {
+        "ProvideName": "Elite Cleaners",
+        "rating": 4.5,
+        "price_per_hour": 30,
+        "address": "456 Elm St, Springfield, IL 62701",
+        "lat": 39.7821,
+        "long": -89.6515,
+        "email": "contact@elitecleaners.com",
+        "phone": "217-555-5678"
+    },
+    {
+        "ProvideName": "Best Electric Co.",
+        "rating": 4.9,
+        "price_per_hour": 75,
+        "address": "789 Oak St, Springfield, IL 62701",
+        "lat": 39.7833,
+        "long": -89.6529,
+        "email": "service@bestelectric.com",
+        "phone": "217-555-9101"
+    },
+    {
+        "ProvideName": "Quick Fix Handyman",
+        "rating": 4.7,
+        "price_per_hour": 40,
+        "address": "101 Pine St, Springfield, IL 62701",
+        "lat": 39.7845,
+        "long": -89.6543,
+        "email": "info@quickfixhandyman.com",
+        "phone": "217-555-2345"
+    },
+    {
+        "ProvideName": "Bright Star Cleaning",
+        "rating": 4.6,
+        "price_per_hour": 35,
+        "address": "202 Birch St, Springfield, IL 62701",
+        "lat": 39.7850,
+        "long": -89.6550,
+        "email": "brightstar@cleaning.com",
+        "phone": "217-555-3456"
+    },
+    {
+        "ProvideName": "Green Thumb Gardening",
+        "rating": 4.8,
+        "price_per_hour": 45,
+        "address": "303 Maple St, Springfield, IL 62701",
+        "lat": 39.7855,
+        "long": -89.6561,
+        "email": "greenthumb@gardening.com",
+        "phone": "217-555-4567"
+    },
+    {
+        "ProvideName": "Speedy Appliance Repair",
+        "rating": 4.7,
+        "price_per_hour": 55,
+        "address": "404 Cedar St, Springfield, IL 62701",
+        "lat": 39.7861,
+        "long": -89.6572,
+        "email": "service@speedyappliance.com",
+        "phone": "217-555-5678"
+    },
+    {
+        "ProvideName": "Ace Painting Services",
+        "rating": 4.6,
+        "price_per_hour": 60,
+        "address": "505 Walnut St, Springfield, IL 62701",
+        "lat": 39.7867,
+        "long": -89.6583,
+        "email": "info@acepainting.com",
+        "phone": "217-555-6789"
+    },
+    {
+        "ProvideName": "Pro Landscaping",
+        "rating": 4.9,
+        "price_per_hour": 50,
+        "address": "606 Chestnut St, Springfield, IL 62701",
+        "lat": 39.7873,
+        "long": -89.6594,
+        "email": "contact@prolandscaping.com",
+        "phone": "217-555-7890"
+    },
+    {
+        "ProvideName": "All Star Moving",
+        "rating": 4.8,
+        "price_per_hour": 65,
+        "address": "707 Hickory St, Springfield, IL 62701",
+        "lat": 39.7879,
+        "long": -89.6605,
+        "email": "support@allstarmoving.com",
+        "phone": "217-555-8901"
+    }
+]
