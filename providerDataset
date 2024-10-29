@@ -88,13 +88,13 @@
         "imageUrl": "https://example.com/images/ace_painting_services.jpg"
     },
     {
-        "ProvideName": "Pro Landscaping",
+        "ProvideName": "Day-Labourer Employment Services",
         "rating": 4.9,
         "price_per_hour": 50,
         "address": "606 Chestnut St, Chittagong",
         "lat": 22.3601,
         "long": 91.7936,
-        "email": "contact@prolandscaping.com",
+        "email": "contact@labourservices.com",
         "phone": "01755-789012",
         "imageUrl": "https://example.com/images/pro_landscaping.jpg"
     },
