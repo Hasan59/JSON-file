@@ -1,50 +1,50 @@
 [
     {
-        "ProvideName": "John's Plumbing Services",
+        "ProvideName": "Md. Rahim Mia",
         "rating": 4.8,
         "price_per_hour": 50,
         "address": "123 Main St, Chittagong",
         "lat": 22.3569,
         "long": 91.7832,
-        "email": "john.plumbing@example.com",
+        "email": "rahim@example.com",
         "phone": "01755-123456",
         "imageUrl": "https://example.com/images/johns_plumbing.jpg"
     },
     {
-        "ProvideName": "Elite Cleaners",
+        "ProvideName": "Karim Mia",
         "rating": 4.5,
         "price_per_hour": 30,
         "address": "456 Elm St, Chittagong",
         "lat": 22.3573,
         "long": 91.7845,
-        "email": "contact@elitecleaners.com",
+        "email": "karim@e.com",
         "phone": "01755-567890",
         "imageUrl": "https://example.com/images/elite_cleaners.jpg"
     },
     {
-        "ProvideName": "Best Electric Co.",
+        "ProvideName": "Best Powertriller Co. ",
         "rating": 4.9,
         "price_per_hour": 75,
         "address": "789 Oak St, Chittagong",
         "lat": 22.3577,
         "long": 91.7858,
-        "email": "service@bestelectric.com",
+        "email": "service@10.com",
         "phone": "01755-910123",
         "imageUrl": "https://example.com/images/best_electric.jpg"
     },
     {
-        "ProvideName": "Quick Fix Handyman",
+        "ProvideName": "Quick Harvester Renting",
         "rating": 4.7,
         "price_per_hour": 40,
         "address": "101 Pine St, Chittagong",
         "lat": 22.3581,
         "long": 91.7871,
-        "email": "info@quickfixhandyman.com",
+        "email": "info@quickharvester.com",
         "phone": "01755-234567",
         "imageUrl": "https://example.com/images/quick_fix_handyman.jpg"
     },
     {
-        "ProvideName": "Bright Star Cleaning",
+        "ProvideName": "Bright Cultivator Services",
         "rating": 4.6,
         "price_per_hour": 35,
         "address": "202 Birch St, Chittagong",
@@ -55,13 +55,13 @@
         "imageUrl": "https://example.com/images/bright_star_cleaning.jpg"
     },
     {
-        "ProvideName": "Green Thumb Gardening",
+        "ProvideName": " Farming Seed Sale",
         "rating": 4.8,
         "price_per_hour": 45,
         "address": "303 Maple St, Chittagong",
         "lat": 22.3589,
         "long": 91.7897,
-        "email": "greenthumb@gardening.com",
+        "email": "farming@sale.com",
         "phone": "01755-456789",
         "imageUrl": "https://example.com/images/green_thumb_gardening.jpg"
     },
@@ -77,13 +77,13 @@
         "imageUrl": "https://example.com/images/speedy_appliance_repair.jpg"
     },
     {
-        "ProvideName": "Ace Painting Services",
+        "ProvideName": " Fertilizer Company",
         "rating": 4.6,
         "price_per_hour": 60,
         "address": "505 Walnut St, Chittagong",
         "lat": 22.3597,
         "long": 91.7923,
-        "email": "info@acepainting.com",
+        "email": "info@fertilizer.com",
         "phone": "01755-678901",
         "imageUrl": "https://example.com/images/ace_painting_services.jpg"
     },
@@ -99,13 +99,13 @@
         "imageUrl": "https://example.com/images/pro_landscaping.jpg"
     },
     {
-        "ProvideName": "All Star Moving",
+        "ProvideName": "All Agricultural Machinery Found",
         "rating": 4.8,
         "price_per_hour": 65,
         "address": "707 Hickory St, Chittagong",
         "lat": 22.3605,
         "long": 91.7949,
-        "email": "support@allstarmoving.com",
+        "email": "support@all.com",
         "phone": "01755-890123",
         "imageUrl": "https://example.com/images/all_star_moving.jpg"
     }
