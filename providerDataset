@@ -63,10 +63,10 @@
         "long": 91.7897,
         "email": "farming@sale.com",
         "phone": "01755-456789",
-        "imageUrl": "https://example.com/images/green_thumb_gardening.jpg"
+        "imageUrl": "https://graphicsfamily.com/wp-content/uploads/edd/2021/07/Agriculture-Logo-Design-PNG-1536x1536.png"
     },
     {
-        "ProvideName": "Speedy Appliance Repair",
+        "ProvideName": "Agro Farm",
         "rating": 4.7,
         "price_per_hour": 55,
         "address": "404 Cedar St, Chittagong",
@@ -85,7 +85,7 @@
         "long": 91.7923,
         "email": "info@fertilizer.com",
         "phone": "01755-678901",
-        "imageUrl": "https://example.com/images/ace_painting_services.jpg"
+        "imageUrl": "https://www.facebook.com/photo.php?fbid=191289427359710&set=gm.196240106788911&type=3&from_lookaside=1"
     },
     {
         "ProvideName": "Day-Labourer Employment Services",
